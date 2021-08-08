@@ -6,6 +6,9 @@ span.spoiler_link {
     text-transform: uppercase;
     cursor: pointer;
 }
+span.spoiler_link:hover {
+    background: #9a9a9a;
+}
 span.spoiler_text {
     color: #6f6f6f;
 }
