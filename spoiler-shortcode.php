@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Spoiler Shortcode
-* Plugin URI: https://www.visionspring.eu
+* Plugin URI: https://github.com/LioneAdri/spoiler-shortcode
 * Description: Hide and display spoiler using a shortcode to insert in a page or post
 * Version: 0.1
 * Text Domain: visionspring-spoiler-shortcode
