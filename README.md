@@ -20,7 +20,7 @@ Set the defaults:
 - You can change colors, fonts, any other style attributes in the `css/spoiler.css` file
 - You can set the default attributes of the shortcode in the `spoiler-shortcode.php` file:
 
-```
+```php
 extract( shortcode_atts( array(
     'title' => 'spoiler', // here
     'tooltip' => 'Click to show the content!' // and here
