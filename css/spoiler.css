@@ -1,0 +1,11 @@
+span.spoiler_link {
+    background: #afafaf;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 0px 5px 1px 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+span.spoiler_text {
+    color: #6f6f6f;
+}
