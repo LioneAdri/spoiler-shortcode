@@ -1,5 +1,5 @@
 # spoiler-shortcode
-This plugin creates a shortcode to use spoiler buttons in WordPress.
+This basic plugin creates a shortcode to use inline spoiler buttons in WordPress posts and pages.
 
 1. Copy the `spoiler-shortcode` library to your `wp-content/plugins` folders
 2. Install the plugin
