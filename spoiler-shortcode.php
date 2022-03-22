@@ -33,7 +33,6 @@ function visionspring_create_spoiler_shortcode($attributes, $content = '') {
 
     // Return a string to display on the page
     return '<span class="spoiler_link" data-spoiler="'.$content.'" title="'.$tooltip.'" >'.$title.'</span>';
-    // <span class="spoiler_text">különös tekintettel a Q-ra</span>
 
     return $content;
 }
